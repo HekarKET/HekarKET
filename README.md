@@ -17,7 +17,7 @@ I am Akhilesh Ketkar, a highly skilled Information technology professional with 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-[![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HekarKet)](https://github.com/?username=HekarKet&count_private=true)
+<!-- [![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HekarKet)](https://github.com/?username=HekarKet&count_private=true) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekarKet)](https://github.com/HekarKet/github-readme-stats) -->
 
