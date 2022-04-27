@@ -19,7 +19,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 [![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HekarKet)](https://github.com/?username=HekarKet&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekarKet)](https://github.com/HekarKet/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekarKet)](https://github.com/HekarKet/github-readme-stats) -->
 
 ***
 
