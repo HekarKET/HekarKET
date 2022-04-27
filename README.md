@@ -12,7 +12,7 @@ I am Akhilesh Ketkar, a highly skilled Information technology professional with 
 - [![Linkedin Badge](https://img.shields.io/badge/-AkhileshKetkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilesh-ketkar/)](https://www.linkedin.com/in/akhilesh-ketkar/) 
 - [![Instagram Badge](https://img.shields.io/badge/-akhileshketkar-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/akhileshketkar/)](https://www.instagram.com/akhileshketkar/)
 - [![Gmail Badge](https://img.shields.io/badge/-ketkarakhilesh@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ketkarakhilesh@gmail.com)](mailto:ketkarakhilesh@gmail.com)
-- ![](https://dcbadge.vercel.app/api/shield/435098185124544533)
+
 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
